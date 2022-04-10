@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AGUNNA
+- 👋 Hi, I’m UCHENNA CHIGBO 
 - 👀 I’m interested in Web Development, Mobile Development, Dapps & Smart contracts
-- 🌱 I’m currently learning JAVASCRIPT , REACT JS, React native & Solidity
+- 🌱 I’m currently Coding JAVASCRIPT , REACT JS, React native & Solidity
 - 💞️ I’m looking to collaborate on Web apps, mobile apps and Dapps
 - 📫 How to reach me Email: agunnabueze@gmail.com
 
